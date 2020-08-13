@@ -1,0 +1,3 @@
+[submodule "pillcase"]
+	path = pillcase
+	url = https://github.com/n1ckfg/pillcase
