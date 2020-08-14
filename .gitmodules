@@ -4,3 +4,6 @@
 [submodule "latk.py"]
 	path = latk.py
 	url = https://github.com/LightningArtist/latk.py
+[submodule "kinect_converter.py"]
+	path = kinect_converter.py
+	url = https://github.com/n1ckfg/kinect_converter.py
