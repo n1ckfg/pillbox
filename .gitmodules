@@ -7,3 +7,6 @@
 [submodule "kinect_converter.py"]
 	path = kinect_converter.py
 	url = https://github.com/n1ckfg/kinect_converter.py
+[submodule "systems/magenta-bitrate2020"]
+	path = systems/magenta-bitrate2020
+	url = https://github.com/n1ckfg/magenta-bitrate2020
